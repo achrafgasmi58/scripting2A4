@@ -1,0 +1,7 @@
+1--Lister les utilisateurs
+2--changer mot de passe
+3--Decrypter
+4--Restorer les donées 
+5--Afficher help
+6--menu graphique
+
